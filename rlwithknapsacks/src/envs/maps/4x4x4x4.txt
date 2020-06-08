@@ -1,0 +1,17 @@
+P P P P P P P P P P P P P P P P P
+P 0 0 0 P 0 0 0 3 0 0 0 P 0 0 0 P
+P 0 0 0 0 0 0 0 P 0 0 0 2 0 0 0 P
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 0 0 P 
+P P 0 P P 0 P P P P P 0 P 0 P P P 
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 0 0 P 
+P 0 0 0 P 0 0 0 3 0 0 0 P 0 0 0 P
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 0 0 P 
+P P P 4 P P P 4 P P P P P 1 P P P 
+P 0 0 0 0 0 0 0 P 0 0 0 0 0 0 0 P
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 8 0 P 
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 0 0 P
+P P P P P P 5 P P P P 0 P P P 7 P 
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 0 0 P 
+P 0 0 0 P 0 0 0 P 0 0 0 P 0 0 6 P
+P G 0 0 0 0 0 0 P 0 0 0 0 0 6 S P 
+P P P P P P P P P P P P P P P P P 
