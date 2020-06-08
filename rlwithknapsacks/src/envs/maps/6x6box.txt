@@ -1,0 +1,6 @@
+W W W W W W
+W 0 S W W W
+W 0 X 0 0 W
+W W 0 0 0 W
+W W W 0 G W
+W W W W W W
