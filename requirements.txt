@@ -19,7 +19,7 @@ palettable==3.3.0
 pandas==1.0.3
 path==13.1.0
 path.py==12.4.0
-Pillow==7.1.2
+Pillow==9.0.0
 pyglet==1.5.0
 pyparsing==2.4.7
 python-dateutil==2.8.1
