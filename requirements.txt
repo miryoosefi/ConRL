@@ -13,7 +13,7 @@ importlib-metadata==1.6.0
 kiwisolver==1.2.0
 matplotlib==3.2.1
 multiprocess==0.70.9
-numpy==1.18.4
+numpy==1.22.0
 osqp==0.6.1
 palettable==3.3.0
 pandas==1.0.3
